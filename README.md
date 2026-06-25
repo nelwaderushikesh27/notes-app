@@ -74,7 +74,7 @@ app/
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/notes-app.git
+git clone https://github.com/nelwaderushikesh27/notes-app.git
 
 # Open in Android Studio
 File -> Open -> Select the cloned directory
